@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.cephas.kimp"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>kimo</name>
+
+  <description>
+      This is a game by Cephas. For more in cephas.epizy.com
+  </description>
+
+  <author href="https://cephas.epizy.com" email="cephas8080@gmmail.com">
+      Cephas
+  </author>
+
+  <icon src="icon.png />
+
+</widget>
