@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.cephas.kimp"
+    id          = "com.cephas.kimo"
     versionCode = "10"
     version     = "1.0.0" >
 
@@ -13,7 +13,7 @@
       This is a game by Cephas. For more in cephas.epizy.com
   </description>
 
-  <author href="https://cephas.epizy.com" email="cephas8080@gmmail.com">
+  <author href="https://cephas.epizy.com" email="cephas8080@gmail.com">
       Cephas
   </author>
 
